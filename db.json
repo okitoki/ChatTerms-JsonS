@@ -1,0 +1,81 @@
+{
+    "appInfo": {
+        "name": "ChatTerms",
+        "version": "0.0.1",
+        "description": "This is a Chome Extention Application"
+    },
+    "term": {
+        "id": 1,
+        "name": "UX Writing",
+        "description": "UX 라이팅이란 사용자가 앱을 효율적으로 사용하고 탐색하는 데 도움을 주는 앱 내 문구를 작성하는 과정입니다. UX 라이팅은 사용자가 제품과 상호 작용하는 방식을 결정하는 중요한 요소입니다.",
+        "detail": "UX Writing은 사용자 경험을 개선하기 위해 디자인된 텍스트의 작성을 말합니다. 이 용어는 사용자 경험 설계 (UX Design)의 한 측면으로, 사용자가 제품 또는 서비스를 사용할 때 마주하는 모든 텍스트 컨텐츠를 대상으로 합니다. 이는 버튼 레이블, 오류 메시지, 안내문구, 알림 메시지, 사용자 인터페이스의 모든 텍스트 등을 포함합니다.",
+        "articles": [
+            {
+                "link": "http://example.com/sample-article",
+                "title": "샘플 아티클"
+            }
+        ]
+    },
+    "terms": [
+        {
+            "id": 1,
+            "name": "Term 1",
+            "description": "Description for Term 1",
+            "detail": "Detail for Term 1",
+            "articles": [
+                {
+                    "link": "http://example.com/sample-article1",
+                    "title": "Sample Article 1"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Term 2",
+            "description": "Description for Term 2",
+            "detail": "Detail for Term 2",
+            "articles": [
+                {
+                    "link": "http://example.com/sample-article2",
+                    "title": "Sample Article 2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Term 3",
+            "description": "Description for Term 3",
+            "detail": "Detail for Term 3",
+            "articles": [
+                {
+                    "link": "http://example.com/sample-article3",
+                    "title": "Sample Article 3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Term 4",
+            "description": "Description for Term 4",
+            "detail": "Detail for Term 4",
+            "articles": [
+                {
+                    "link": "http://example.com/sample-article4",
+                    "title": "Sample Article 4"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Term 5",
+            "description": "Description for Term 5",
+            "detail": "Detail for Term 5",
+            "articles": [
+                {
+                    "link": "http://example.com/sample-article5",
+                    "title": "Sample Article 5"
+                }
+            ]
+        }
+    ]
+}
