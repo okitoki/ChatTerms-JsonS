@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "dev": "json-server --watch db.json  --port 5000"
+        "dev": "json-server --watch db.json  --port 3500"
     },
     "dependencies": {
         "json-server": "^1.0.0-alpha.23",
